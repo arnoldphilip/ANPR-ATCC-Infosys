@@ -61,17 +61,17 @@ Download from [python.org/downloads](https://www.python.org/downloads/)
 > anpr_env\Scripts\activate
 
 ### ✅ Step 3: Clone the Repository
-git clone https://github.com/nehakumari2003/ANPR-ATCC.git
-cd ANPR-ATCC
+> git clone https://github.com/nehakumari2003/ANPR-ATCC.git
+> cd ANPR-ATCC
 
 ### ✅ Step 4: Install Dependencies
-pip install --upgrade pip
-pip install streamlit opencv-python-headless ultralytics numpy pandas matplotlib pillow pytesseract
+> pip install --upgrade pip
+> pip install streamlit opencv-python-headless ultralytics numpy pandas matplotlib pillow pytesseract
 
 
 (Optional for local debugging with GUI windows)
 
-pip install opencv-python
+> pip install opencv-python
 
 ### ✅ Step 5: Install Tesseract OCR
 
@@ -89,7 +89,7 @@ C:\Program Files\Tesseract-OCR\
 
 Verify installation:
 
-tesseract --version
+> tesseract --version
 
 ### ✅ Step 6: Verify Project Structure
 ANPR-ATCC/
@@ -105,7 +105,7 @@ ANPR-ATCC/
 └── requirements.txt
 
 ### ✅ Step 7: Run the Application
-streamlit run app.py
+> streamlit run app.py
 
 
 Once it starts, open the link displayed (usually http://localhost:8501) in your browser.
