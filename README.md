@@ -199,6 +199,4 @@ This project is licensed under the [MIT License](./LICENSE) © 2025 Vidzai Digit
 ### 🌐 Project Vision
 *ANPR-ATCC aims to revolutionize intelligent traffic monitoring by merging AI-powered vision, automation, and real-time analytics into one unified platform — contributing toward smarter, safer, and more efficient cities.*
 
----
-
 ***
