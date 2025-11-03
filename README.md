@@ -60,11 +60,11 @@ Download from [python.org/downloads](https://www.python.org/downloads/)
 python -m venv anpr_env
 anpr_env\Scripts\activate
 
-✅ Step 3: Clone the Repository
+### ✅ Step 3: Clone the Repository
 git clone https://github.com/nehakumari2003/ANPR-ATCC.git
 cd ANPR-ATCC
 
-✅ Step 4: Install Dependencies
+### ✅ Step 4: Install Dependencies
 pip install --upgrade pip
 pip install streamlit opencv-python-headless ultralytics numpy pandas matplotlib pillow pytesseract
 
@@ -73,7 +73,7 @@ pip install streamlit opencv-python-headless ultralytics numpy pandas matplotlib
 
 pip install opencv-python
 
-✅ Step 5: Install Tesseract OCR
+### ✅ Step 5: Install Tesseract OCR
 
 Tesseract is required for number plate text recognition.
 
@@ -91,7 +91,7 @@ Verify installation:
 
 tesseract --version
 
-✅ Step 6: Verify Project Structure
+### ✅ Step 6: Verify Project Structure
 ANPR-ATCC/
 │
 ├── app.py
@@ -104,7 +104,7 @@ ANPR-ATCC/
 ├── licensePlatesDatabase.db
 └── requirements.txt
 
-✅ Step 7: Run the Application
+### ✅ Step 7: Run the Application
 streamlit run app.py
 
 
