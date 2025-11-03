@@ -57,8 +57,8 @@ Download from [python.org/downloads](https://www.python.org/downloads/)
 ---
 
 ### ✅ Step 2: Create & Activate Virtual Environment
-python -m venv anpr_env
-anpr_env\Scripts\activate
+> python -m venv anpr_env
+> anpr_env\Scripts\activate
 
 ### ✅ Step 3: Clone the Repository
 git clone https://github.com/nehakumari2003/ANPR-ATCC.git
